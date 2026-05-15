@@ -43,3 +43,8 @@ If you use this repository, please cite the following article:
   year = {2025},
   doi = {10.1016/j.compbiomed.2024.109419}
 }
+```
+
+## Notes
+
+This repository is provided as supplementary material for the associated paper and is intended to support reproducibility of the computational experiments described therein.
